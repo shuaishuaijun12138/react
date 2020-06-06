@@ -1,0 +1,8 @@
+[
+    {"id":"1","firstNav":"首页","path":"/"},
+    {"id":"2","firstNav":"产品中心","path":"/yxdxt"},
+    {"id":"3","firstNav":"行业解决方案","path":"/kxhy"},
+    {"id":"4","firstNav":"新零售周边","path":"/xlszb"},
+    {"id":"5","firstNav":"城市合伙人","path":"/cshhr"},
+    {"id":"6","firstNav":"下载","path":"/download"}
+]
